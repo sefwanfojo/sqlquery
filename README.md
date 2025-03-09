@@ -1,2 +1,2 @@
 # sqlquery
-It will
+It will  return a sql 
